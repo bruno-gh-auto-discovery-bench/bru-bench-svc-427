@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "notifications-worker-2",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
